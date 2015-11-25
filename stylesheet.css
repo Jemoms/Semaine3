@@ -1,0 +1,25 @@
+body{
+    background-color:green;
+}
+
+header{
+    background-color:darkgreen;
+    padding:15px;
+}
+
+header h1{
+    color:black;
+}
+
+ul li{    
+    list-style-type: none;
+}
+
+h4{
+    color:darkred;
+}
+
+footer{
+    background-color:darkgreen;
+    padding:30px;
+}
